@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/04/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Ammpiptanthus mongolicus genome sequence</title>
+    <url>/2024/04/02/genome_intro/</url>
+    <content><![CDATA[<h3 id="general-information"><a class="markdownIt-Anchor" href="#general-information"></a> General Information</h3>
+<p>Previous karyotyping studies have revealed that the genus Ammopiptanthus is diploid (2n = 2X = 18). The final assembly was 843.07 Mb in length, including 498 scaffolds and 1,374 contigs. The N50 length of the scaffolds was 92.57 Mb, while that of the contigs was 2.90 Mb. The length of the nine chromosomes ranged from 70.9 Mb to 108.8 Mb.</p>
+<p>Protein-coding genes were predicted using combined homology-based, transcriptome-based, and ab initio gene prediction strategies, which yielded 47,611 protein-coding genes and 3,542 non-coding RNAs. The average coding sequence (CDS) length of protein-coding genes is 1,488 bp, with 5.5 exons in each gene. The total length of the genic regions was 222.31 Mb (26.37% of the genome). Functional annotation assigned putative functions to 91.44% of the protein-coding genes (43,536), based on sequence similarity searches against public databases. The 3,542 non-coding RNAs included 1,212 tRNAs, 380 rRNAs, 1,779 snRNAs, and 171 miRNAs.</p>
+<h3 id="data-availability"><a class="markdownIt-Anchor" href="#data-availability"></a> Data Availability</h3>
+<p>The genome assembly and annotations were deposited at the Chinese National Genomics Data Center (<a href="https://ngdc.cncb.ac.cn/">https://ngdc.cncb.ac.cn/</a>) under BioProject accession number PRJCA024714. Raw sequencing data were deposited in the NCBI Sequence Read Archive database (SRA, <a href="http://www.ncbi.nlm.nih.gov/sra">http://www.ncbi.nlm.nih.gov/sra</a>) under accession number PRJNA1085185.</p>
+<h3 id="citation"><a class="markdownIt-Anchor" href="#citation"></a> Citation</h3>
+<p>Feng, L., Teng, F., Li, N., Zhang, J.C., Zhang, B.J., Tsai, S.N., Yue, X.L., Gu, L.F., Meng, G.H., Deng, T.Q., Tong, S.W., Wang, C.M., Li, Y., Shi, W., Zeng, Y.L., Jiang, Y.M., Yu, W.C., Ngai, S.M., An, L.Z., Lam, H.M., He, J.X. (2024) A reference-grade genome of the xerophyte Ammopiptanthus mongolicus sheds light on its evolution history in legumes and drought tolerance mechanisms. Plant Communications 5: 100891</p>
+<h3 id="contact-information"><a class="markdownIt-Anchor" href="#contact-information"></a> Contact Information</h3>
+<p>PI: Junxian He (jxhe [AT] <a href="http://cuhk.edu.hk">cuhk.edu.hk</a>)<br />
+Lab member: Dr. Lei Feng (lfeng [AT] <a href="http://link.cuhk.edu.hk">link.cuhk.edu.hk</a>)</p>
+]]></content>
+  </entry>
+</search>
