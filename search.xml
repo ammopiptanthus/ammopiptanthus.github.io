@@ -2,17 +2,26 @@
 <search>
   <entry>
     <title>The Ammpiptanthus mongolicus genome sequence</title>
-    <url>/2024/04/02/genome_intro/</url>
+    <url>/2024/04/02/AMO_genome_data/</url>
     <content><![CDATA[<h3 id="general-information"><a class="markdownIt-Anchor" href="#general-information"></a> General Information</h3>
-<p>Previous karyotyping studies have revealed that the genus Ammopiptanthus is diploid (2n = 2X = 18). The final assembly was 843.07 Mb in length, including 498 scaffolds and 1,374 contigs. The N50 length of the scaffolds was 92.57 Mb, while that of the contigs was 2.90 Mb. The length of the nine chromosomes ranged from 70.9 Mb to 108.8 Mb.</p>
+<p>Previous karyotyping studies have revealed that the genus <em>Ammopiptanthus</em> is diploid (2n = 2X = 18). The final assembly was 843.07 Mb in length, including 498 scaffolds and 1,374 contigs. The N50 length of the scaffolds was 92.57 Mb, while that of the contigs was 2.90 Mb. The length of the nine chromosomes ranged from 70.9 Mb to 108.8 Mb.</p>
 <p>Protein-coding genes were predicted using combined homology-based, transcriptome-based, and ab initio gene prediction strategies, which yielded 47,611 protein-coding genes and 3,542 non-coding RNAs. The average coding sequence (CDS) length of protein-coding genes is 1,488 bp, with 5.5 exons in each gene. The total length of the genic regions was 222.31 Mb (26.37% of the genome). Functional annotation assigned putative functions to 91.44% of the protein-coding genes (43,536), based on sequence similarity searches against public databases. The 3,542 non-coding RNAs included 1,212 tRNAs, 380 rRNAs, 1,779 snRNAs, and 171 miRNAs.</p>
 <h3 id="data-availability"><a class="markdownIt-Anchor" href="#data-availability"></a> Data Availability</h3>
-<p>The genome assembly and annotations were deposited at the Chinese National Genomics Data Center (<a href="https://ngdc.cncb.ac.cn/">https://ngdc.cncb.ac.cn/</a>) under BioProject accession number PRJCA024714. Raw sequencing data were deposited in the NCBI Sequence Read Archive database (SRA, <a href="http://www.ncbi.nlm.nih.gov/sra">http://www.ncbi.nlm.nih.gov/sra</a>) under accession number PRJNA1085185.</p>
+<p>You can directly download the genome sequence and annotation files here:</p>
+<p>a. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO_genome_v1.0.fasta.gz">AMO_genome_v1.0.fasta.gz</a> : Genome sequence of <em>Ammopiptanthus mongolicus</em> version 1.0.<br />
+b. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO_genome_v1.0.softmasked.fasta.gz">AMO_genome_v1.0.softmasked.fasta.gz</a> : Softmasked genome sequence.<br />
+c. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.proteins.gff.gz">AMO.proteins.gff.gz</a> : GFF3 file of all predicted genes.<br />
+d. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.proteins.primary.gff.gz">AMO.proteins.primary.gff.gz</a> : GFF3 file of primary protein isoforms of all predicted genes.<br />
+e. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.proteins_and_annotations.gff3.gz">AMO.proteins_and_annotations.gff3.gz</a> : GFF3 file of primary isoforms of predicted genes, and their functional annotation.<br />
+f. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.cds.fa.gz">AMO.cds.fa.gz</a> : CDS sequences of all predicted genes.<br />
+g. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.cds.primary.fa.gz">AMO.cds.primary.fa.gz</a> : CDS sequences of primary transcripts of all predicited genes.<br />
+h. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.proteins.fa.gz">AMO.proteins.fa.gz</a> : Protein sequences of primary transcripts of all predicited genes.<br />
+i. <a href="https://life.scnu.edu.cn/biology/genome/AMO_v1.0/AMO.proteins.primary.fa.gz">AMO.proteins.primary.fa.gz</a> : Protein sequences of primary transcripts of all predicited genes.</p>
+<p>The genome sequence and annotations were also deposited at the Chinese National Genomics Data Center (<a href="https://ngdc.cncb.ac.cn/">https://ngdc.cncb.ac.cn/</a>) under BioProject accession number PRJCA024714. Raw sequencing data were deposited in the NCBI Sequence Read Archive database (SRA, <a href="http://www.ncbi.nlm.nih.gov/sra">http://www.ncbi.nlm.nih.gov/sra</a>) under accession number PRJNA1085185.</p>
 <h3 id="citation"><a class="markdownIt-Anchor" href="#citation"></a> Citation</h3>
-<p>Feng, L., Teng, F., Li, N., Zhang, J.C., Zhang, B.J., Tsai, S.N., Yue, X.L., Gu, L.F., Meng, G.H., Deng, T.Q., Tong, S.W., Wang, C.M., Li, Y., Shi, W., Zeng, Y.L., Jiang, Y.M., Yu, W.C., Ngai, S.M., An, L.Z., Lam, H.M., He, J.X. (2024) A reference-grade genome of the xerophyte Ammopiptanthus mongolicus sheds light on its evolution history in legumes and drought tolerance mechanisms. Plant Communications 5: 100891</p>
+<p>Feng, L., Teng, F., Li, N., Zhang, J.C., Zhang, B.J., Tsai, S.N., Yue, X.L., Gu, L.F., Meng, G.H., Deng, T.Q., Tong, S.W., Wang, C.M., Li, Y., Shi, W., Zeng, Y.L., Jiang, Y.M., Yu, W.C., Ngai, S.M., An, L.Z., Lam, H.M., He, J.X. (2024) A reference-grade genome of the xerophyte Ammopiptanthus mongolicus sheds light on its evolution history in legumes and drought tolerance mechanisms. Plant Communications 5: 100891 (DOI: <a href="https://doi.org/10.1016/j.xplc.2024.100891">10.1016/j.xplc.2024.100891</a>)</p>
 <h3 id="contact-information"><a class="markdownIt-Anchor" href="#contact-information"></a> Contact Information</h3>
-<p>PI: Junxian He (jxhe [AT] <a href="http://cuhk.edu.hk">cuhk.edu.hk</a>)<br />
-Lab member: Dr. Lei Feng (lfeng [AT] <a href="http://link.cuhk.edu.hk">link.cuhk.edu.hk</a>)</p>
+<p>Dr. Lei Feng (<a href="mailto:lfeng@link.cuhk.edu.hk">lfeng@link.cuhk.edu.hk</a>)</p>
 ]]></content>
   </entry>
 </search>
