@@ -1,0 +1,9 @@
+8ab777eef5963c1f72c09dc1b74c0914  AMO.cds.fa.gz
+12b3d2c33ae4cf06340bd87fb330b6e6  AMO.cds.primary.fa.gz
+07cba400141e170c21818bca7d3b58fc  AMO_genome_v1.0.fasta.gz
+e2c37f5ce92d53259935023c98962cde  AMO_genome_v1.0.softmasked.fasta.gz
+648fa0d9bf90d6caec09e0c8b8067a8c  AMO.proteins_and_annotations.gff3.gz
+a8c7b39071bf9dbb2504cc69da14c1f8  AMO.proteins.fa.gz
+9ad5f6bc56642c77665fb61e241f4877  AMO.proteins.gff.gz
+89deae1d164144e0fd94274405ca7a9b  AMO.proteins.primary.fa.gz
+8d0f5d0764d345f68acd04c1229363dc  AMO.proteins.primary.gff.gz
